@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MovieBox</string>
+
+    <!--Popular Fragment-->
+    <string name="txt_popular">Популярные</string>
+
+    <!--Favorite Fragment-->
+    <string name="txt_favorites">Избранное</string>
+
+    <!--Search Fragment-->
+    <string name="txt_search_not_found">Не найдено</string>
+    <string name="txt_search_hint">Поиск…</string>
+
+    <!--Buttons-->
+    <string name="txt_favorite_btn">\u0020\u0020\u0020\u0020Избранное\u0020\u0020\u0020\u0020</string>
+    <string name="txt_popular_btn">\u0020\u0020Популярные\u0020\u0020</string>
+
+    <!--Errors-->
+    <string name="txt_error_1">Произошла ошибка при загрузке данных,</string>
+    <string name="txt_error_2">проверьте подключение к сети</string>
+    <string name="txt_error_repeat">Повторить</string>
+</resources>

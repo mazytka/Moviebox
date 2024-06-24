@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextView_Title">
+        <item name="android:layout_marginStart">@dimen/spacing_16</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textSize">@dimen/text_25</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextView_MainText">
+        <item name="android:layout_margin">@dimen/spacing_16</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textSize">@dimen/text_16</item>
+    </style>
+
+    <style name="TextView_SubText">
+        <item name="android:layout_margin">@dimen/spacing_16</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextView_HelpText">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
